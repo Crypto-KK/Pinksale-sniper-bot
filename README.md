@@ -3,6 +3,8 @@ Pinksale super fast sniper bot, confirmed transaction on first block easily
 
 Contact Telegram: @CryptoJoinSmith for price.
 
+Dxsale version comming soon...
+
 # Preview
 
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/bot.png" />
