@@ -26,4 +26,17 @@ The bot is used for Pinksale presale or fair launch only, Support BSC/ETH chain.
 
 ## Tips
 
-**You need a super fast custom node to snipe on first block, the bot can confirm the transaction right after the presale starts. If you are using a public node, it may take some seconds to confirm the transaction**
+You need a super fast custom node to snipe on first block, the bot can confirm the transaction right after the presale starts. If you are using a public node, it may take some seconds to confirm the transaction
+
+
+## Other features
+
+* Claim tokens
+* Withdraw contributions when the pool is been cancelled
+* Approve token trading on Pancake swap or Uniswap swap
+
+## More features will be added soon
+
+* Support all chains on pinksale
+* Support multiple wallets
+* Sell tokens after launch
