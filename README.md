@@ -1,9 +1,10 @@
 # Pinksale-sniper-bot
-Pinksale super fast sniper bot, confirmed transaction on first block easily
+Pinksale super fast sniper bot, confirme contribution on first block easily
 
 Contact Telegram: @CryptoJoinSmith for price.
 
-Dxsale version comming soon...
+Dxsale version coming soon...
+Pancakeswap frontrun bot coming soon...
 
 # Preview
 
