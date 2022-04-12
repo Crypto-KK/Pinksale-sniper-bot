@@ -36,10 +36,8 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 * Claim tokens
 * Withdraw contributions when the pool is been cancelled
-* Approve token trading on Pancake swap or Uniswap swap
 
 ## More features will be added soon
 
 * Support all chains on pinksale
 * Support multiple wallets
-* Sell tokens after launch
