@@ -10,7 +10,7 @@ Pancakeswap frontrun bot coming soon...
 
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_bot.png" />
 
-<img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/transaction.png" />
+<img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_transaction.png" />
 
 # Introduction
 
