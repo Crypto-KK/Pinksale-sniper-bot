@@ -19,7 +19,7 @@ The bot is used for Pinksale presale or fair launch only, Support BSC/ETH chain.
 ## How to use
 
 
-* 1. Paste the pinksale link to extract the information, or manually paste the presale address and presale starts at time.
+* 1. Paste the presale address and presale starts at time.
 
 * 2. Set up the gas price and buying amount, the default gas price is 25GWEI.
 
@@ -41,3 +41,8 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 * Support all chains on pinksale
 * Support multiple wallets
+
+
+## Security
+
+You need to provide the private key in the program to sign transaction, the private key won't upload to any place.
