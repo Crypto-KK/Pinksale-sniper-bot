@@ -1,20 +1,18 @@
 # Pinksale-sniper-bot
-Pinksale super fast sniper bot, confirme contribution on first block easily
+Pinksale super fast sniper bot, confirm contribution on first/second block easily.(Using a fast private node and vps easily first block)
 
 Contact Telegram: @CryptoJoinSmith for price.
 
-Dxsale version coming soon...
-Pancakeswap frontrun bot coming soon...
 
 # Preview
+
+My bot can easily enter in a super hype presale in first or second block
 
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_bot1.png" />
 
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_transaction1.png" />
 
-# Introduction
 
-The bot is used for Pinksale presale or fair launch only, Support BSC/ETH chain.
 
 ## How to use
 
@@ -23,7 +21,7 @@ The bot is used for Pinksale presale or fair launch only, Support BSC/ETH chain.
 
 * 2. Set up the gas price and buying amount, the default gas price is 25GWEI.
 
-* 3. Click the Initialize button to validate all the parameters and connect to node to initialize the environment.
+* 3. Click the Initialize button.
 
 * 4. Click the contribute button to buy immediately, or click the start button to buy automatically at the presale starts time.
 
@@ -35,12 +33,11 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 ## Other features
 
 * Claim tokens
-* Withdraw contributions when the pool is been cancelled
 
 ## More features will be added soon
 
-* Support all chains on pinksale
 * Support multiple wallets
+* Auto sell at launch
 
 
 ## Security
