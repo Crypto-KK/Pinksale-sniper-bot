@@ -3,6 +3,16 @@ Pinksale super fast sniper bot, confirm contribution on first/second block easil
 
 Contact Telegram: @CryptoJoinSmith for price.
 
+# Update 2023.2.27
+
+1. Support custom Chain ID
+
+2. Support custom gas limit
+
+3. Send transaction on exact presale start time, instead of before 2-3 secs, because of Pinksale update antibot
+
+4. Now support ETH/Arbitrum chain
+
 
 # Preview
 
