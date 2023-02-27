@@ -1,5 +1,5 @@
 # Pinksale-sniper-bot
-Pinksale super fast sniper bot, confirm contribution on first/second block easily.(Using a fast private node and vps easily first block)
+Pinksale super fast and safe sniper bot, confirm contribution on first/second block easily.(Using a fast private node and vps easily first block)
 
 Contact Telegram: @CryptoJoinSmith for price.
 
@@ -22,6 +22,7 @@ My bot can easily enter in a super hype presale in first or second block
 
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_transaction1.png" />
 
+This is Loobr presale on 2022, it's a super hype whitelist presale, my bot sniped it on second block with 2 wallet and sold at launch for 6x
 
 
 ## How to use
@@ -52,4 +53,4 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 ## Security
 
-You need to provide the private key in the program to sign transaction, the private key won't upload to any place.
+You need to provide the private key in the program to sign transaction, the private key will never upload to any server, you can check it on Fiddler or other tools.
