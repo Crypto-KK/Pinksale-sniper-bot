@@ -49,6 +49,7 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 * Support multiple wallets
 * Auto sell at launch
+* Auto approve after buying presale
 
 
 ## Security
