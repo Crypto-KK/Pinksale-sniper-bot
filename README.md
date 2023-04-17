@@ -3,6 +3,14 @@ Pinksale super fast and safe sniper bot, confirm contribution on first/second bl
 
 Contact Telegram: @CryptoJoinSmith for price.
 
+
+# Update 2023.4.15
+
+1. Support multi wallets, use "," to split private keys
+
+2. Update Pinksale new ABI
+
+
 # Update 2023.2.27
 
 1. Support custom Chain ID
@@ -47,7 +55,6 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 ## More features will be added soon
 
-* Support multiple wallets
 * Auto sell at launch
 * Auto approve after buying presale
 
