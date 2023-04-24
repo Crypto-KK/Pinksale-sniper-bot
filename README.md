@@ -29,7 +29,7 @@ Contact Telegram: @CryptoJoinSmith for price.
 4. Now support ETH/Arbitrum chain
 
 
-# Preview
+# Pinksale Preview
 
 My bot can easily enter in a super hype presale in first or second block
 
@@ -38,6 +38,13 @@ My bot can easily enter in a super hype presale in first or second block
 <img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/new_transaction1.png" />
 
 This is Loobr presale on 2022, it's a super hype whitelist presale, my bot sniped it on second block with 2 wallet and sold at launch for 6x
+
+
+# Pancakeswap auto sell preview
+
+My bot can approve on Pancakeswap and auto sell, for example i can set sell token percentage and profit target, if meet the condition, it will swap automatically
+
+<img src="https://github.com/Crypto-KK/Pinksale-sniper-bot/blob/main/pinksale-bot-4-24.png" />
 
 
 ## How to use
