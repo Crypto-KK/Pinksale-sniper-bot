@@ -67,10 +67,14 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 * Claim tokens
 
+* Approve tokens on Pancakeswap
+
+* Auto sell tokens on Pancakeswap
+
+
 ## More features will be added soon
 
-* Auto sell at launch
-* Auto approve after buying presale
+* Use pinksale link to fetch presale info instead of manually input presale info
 
 
 ## Security
