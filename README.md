@@ -4,6 +4,13 @@ Pinksale super fast and safe sniper bot, confirm contribution on first/second bl
 Contact Telegram: @CryptoJoinSmith for price.
 
 
+# Update 2023.4.24
+
+1. Approve on Pancakeswap
+
+2. Support auto sell tokens on Pancakeswap (can set sell token percentage and profit target percentage)
+
+
 # Update 2023.4.15
 
 1. Support multi wallets, use "," to split private keys
