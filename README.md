@@ -76,6 +76,8 @@ You need a super fast custom node to snipe on first block, the bot can confirm t
 
 * Use pinksale link to fetch presale info instead of manually input presale info
 
+* Support USDT/BUSD/USDC
+
 
 ## Security
 
